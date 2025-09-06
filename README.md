@@ -1,6 +1,7 @@
 #react-calculator-dark
 
 Calculadora Simples - React & Tailwind CSS
+
 Uma calculadora simples construída para praticar o gerenciamento de estado complexo no React e a estilização com a biblioteca de utilitários Tailwind CSS. Este projeto foi criado como parte de uma jornada de aprendizado para consolidar os conceitos de React.
 
 💻 Tecnologias
